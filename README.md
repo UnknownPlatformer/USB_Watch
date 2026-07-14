@@ -7,12 +7,12 @@ Running this project
 Add steps for running this project.
 Make sure to include any required libraries that need to be installed for your project to run.
 
-Step 1: Download the model from the github and ensure your system, and jetson interface are properly configured with the model.
+Step 1: Download the model from the github and ensure your system, and interface are properly configured.
 
-Step 2: Navigate to your sandboxed environment connected to the Jetson Orin and open the terminal.
+Step 2: Open the terminal.
 
 Step 3: Open the model path in the terminal with the following command:
-NET=~/jetson-inference/python/training/detection/ssd/models/USB_model6
+NET=~/USB_Watch/USB_model6
 
 Step 4: Run the model:
 detectnet \
