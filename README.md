@@ -14,17 +14,17 @@ USB Watch uses hundreds of photos of cords utilizing different backgrounds, colo
 
 **Step 3:** Open the model path in the terminal with the following command:
 
-'NET=~/USB_Watch/USB_model6'
+`NET=~/USB_Watch/USB_model6`
 
 **Step 4:** Run the model:
 
-'detectnet \
+`detectnet \
   --model=$NET/ssd-mobilenet.onnx \
   --labels=$NET/labels.txt \
   --input-blob=input_0 \
   --output-cvg=scores \
   --output-bbox=boxes \
-  /dev/video0'
+  /dev/video0`
 
 #### Output
 
