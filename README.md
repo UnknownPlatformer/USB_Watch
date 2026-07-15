@@ -28,9 +28,11 @@ USB Watch uses hundreds of photos of cords utilizing different backgrounds, colo
 
 **Step 5:** A livestream will open (video0) to use it show one of the 3 listed cord types to your camera.
 
-#### Output
+#### Image
 
 <img width="913" height="685" alt="Screenshot 2026-07-15 110640" src="https://github.com/user-attachments/assets/702a1e33-3194-4819-95b9-8d9ab60c4de0" />
+
+#### Video
 
 https://drive.google.com/file/d/1soy5HpBBvp-PjYgSYgVvK96l_WT000Tf/view?usp=sharing
 
