@@ -14,7 +14,7 @@ USB Watch uses hundreds of photos of cords utilizing different backgrounds, colo
 
 **Step 3:** Access the model path in the terminal with the following command:
 
-`NET=~/USB_Watch/Model_Final`
+`NET=~/USB_Watch/USB_model6`
 
 **Step 4:** Run the model in the same terminal with this command:
 
